@@ -1,0 +1,112 @@
+[
+    {
+        "code": "PROD001",
+        "name": "Smartphone Samsung",
+        "category": "Eletrônicos",
+        "price": 899.9,
+        "min_stock": 5,
+        "supplier": "TechCorp",
+        "quantity": 7,
+        "created_at": "2025-06-06T19:19:47.846275",
+        "updated_at": "2025-06-06T19:19:47.872368"
+    },
+    {
+        "code": "PROD002",
+        "name": "Notebook Dell",
+        "category": "Eletrônicos",
+        "price": 2499.9,
+        "min_stock": 3,
+        "supplier": "TechCorp",
+        "quantity": 23,
+        "created_at": "2025-06-06T19:19:47.849083",
+        "updated_at": "2025-06-06T19:19:47.876092"
+    },
+    {
+        "code": "PROD003",
+        "name": "Camiseta Básica",
+        "category": "Roupas",
+        "price": 29.9,
+        "min_stock": 20,
+        "supplier": "Fashion Store",
+        "quantity": 34,
+        "created_at": "2025-06-06T19:19:47.850400",
+        "updated_at": "2025-06-06T19:19:47.878070"
+    },
+    {
+        "code": "PROD004",
+        "name": "Jeans Masculino",
+        "category": "Roupas",
+        "price": 89.9,
+        "min_stock": 10,
+        "supplier": "Fashion Store",
+        "quantity": 25,
+        "created_at": "2025-06-06T19:19:47.851422",
+        "updated_at": "2025-06-06T19:19:47.875127"
+    },
+    {
+        "code": "PROD005",
+        "name": "Mesa de Jantar",
+        "category": "Casa e Jardim",
+        "price": 599.9,
+        "min_stock": 2,
+        "supplier": "Casa & Cia",
+        "quantity": 12,
+        "created_at": "2025-06-06T19:19:47.852609",
+        "updated_at": "2025-06-06T19:19:47.877008"
+    },
+    {
+        "code": "PROD006",
+        "name": "Cadeira de Escritório",
+        "category": "Casa e Jardim",
+        "price": 299.9,
+        "min_stock": 5,
+        "supplier": "Casa & Cia",
+        "quantity": 38,
+        "created_at": "2025-06-06T19:19:47.854286",
+        "updated_at": "2025-06-06T19:19:47.879816"
+    },
+    {
+        "code": "PROD007",
+        "name": "Python para Iniciantes",
+        "category": "Livros",
+        "price": 45.9,
+        "min_stock": 15,
+        "supplier": "Livraria Central",
+        "quantity": 71,
+        "created_at": "2025-06-06T19:19:47.856144",
+        "updated_at": "2025-06-06T19:19:47.878985"
+    },
+    {
+        "code": "PROD008",
+        "name": "JavaScript Avançado",
+        "category": "Livros",
+        "price": 65.9,
+        "min_stock": 10,
+        "supplier": "Livraria Central",
+        "quantity": 30,
+        "created_at": "2025-06-06T19:19:47.857802",
+        "updated_at": "2025-06-06T19:19:47.869515"
+    },
+    {
+        "code": "PROD009",
+        "name": "Tênis Running",
+        "category": "Esportes",
+        "price": 199.9,
+        "min_stock": 8,
+        "supplier": "SportMax",
+        "quantity": 29,
+        "created_at": "2025-06-06T19:19:47.859341",
+        "updated_at": "2025-06-06T19:19:47.880631"
+    },
+    {
+        "code": "PROD010",
+        "name": "Bola de Futebol",
+        "category": "Esportes",
+        "price": 49.9,
+        "min_stock": 12,
+        "supplier": "SportMax",
+        "quantity": 8,
+        "created_at": "2025-06-06T19:19:47.861092",
+        "updated_at": "2025-06-06T19:19:47.874359"
+    }
+]

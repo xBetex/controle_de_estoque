@@ -1,0 +1,1 @@
+# Views module for Inventory Management System 

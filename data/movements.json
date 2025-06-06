@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "date": "2025-06-06T19:19:47.846283",
+        "type": "entrada",
+        "product_code": "PROD001",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 2,
+        "date": "2025-06-06T19:19:47.848559",
+        "type": "entrada",
+        "product_code": "PROD001",
+        "quantity": 12,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 3,
+        "date": "2025-06-06T19:19:47.849089",
+        "type": "entrada",
+        "product_code": "PROD002",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 4,
+        "date": "2025-06-06T19:19:47.849899",
+        "type": "entrada",
+        "product_code": "PROD002",
+        "quantity": 5,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 5,
+        "date": "2025-06-06T19:19:47.850405",
+        "type": "entrada",
+        "product_code": "PROD003",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 6,
+        "date": "2025-06-06T19:19:47.850907",
+        "type": "entrada",
+        "product_code": "PROD003",
+        "quantity": 24,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 7,
+        "date": "2025-06-06T19:19:47.851426",
+        "type": "entrada",
+        "product_code": "PROD004",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 8,
+        "date": "2025-06-06T19:19:47.851949",
+        "type": "entrada",
+        "product_code": "PROD004",
+        "quantity": 27,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 9,
+        "date": "2025-06-06T19:19:47.852616",
+        "type": "entrada",
+        "product_code": "PROD005",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 10,
+        "date": "2025-06-06T19:19:47.853565",
+        "type": "entrada",
+        "product_code": "PROD005",
+        "quantity": 2,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 11,
+        "date": "2025-06-06T19:19:47.854292",
+        "type": "entrada",
+        "product_code": "PROD006",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 12,
+        "date": "2025-06-06T19:19:47.855241",
+        "type": "entrada",
+        "product_code": "PROD006",
+        "quantity": 10,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 13,
+        "date": "2025-06-06T19:19:47.856151",
+        "type": "entrada",
+        "product_code": "PROD007",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 14,
+        "date": "2025-06-06T19:19:47.856982",
+        "type": "entrada",
+        "product_code": "PROD007",
+        "quantity": 33,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 15,
+        "date": "2025-06-06T19:19:47.857809",
+        "type": "entrada",
+        "product_code": "PROD008",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 16,
+        "date": "2025-06-06T19:19:47.858719",
+        "type": "entrada",
+        "product_code": "PROD008",
+        "quantity": 28,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 17,
+        "date": "2025-06-06T19:19:47.859346",
+        "type": "entrada",
+        "product_code": "PROD009",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 18,
+        "date": "2025-06-06T19:19:47.860291",
+        "type": "entrada",
+        "product_code": "PROD009",
+        "quantity": 10,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 19,
+        "date": "2025-06-06T19:19:47.861098",
+        "type": "entrada",
+        "product_code": "PROD010",
+        "quantity": 0,
+        "reason": "Cadastro inicial",
+        "user": "admin"
+    },
+    {
+        "id": 20,
+        "date": "2025-06-06T19:19:47.861942",
+        "type": "entrada",
+        "product_code": "PROD010",
+        "quantity": 17,
+        "reason": "Estoque inicial",
+        "user": "admin"
+    },
+    {
+        "id": 21,
+        "date": "2025-06-06T19:19:47.863688",
+        "type": "entrada",
+        "product_code": "PROD003",
+        "quantity": 15,
+        "reason": "Transferência interna",
+        "user": "admin"
+    },
+    {
+        "id": 22,
+        "date": "2025-06-06T19:19:47.864689",
+        "type": "entrada",
+        "product_code": "PROD006",
+        "quantity": 11,
+        "reason": "Correção de inventário",
+        "user": "admin"
+    },
+    {
+        "id": 23,
+        "date": "2025-06-06T19:19:47.865588",
+        "type": "entrada",
+        "product_code": "PROD005",
+        "quantity": 18,
+        "reason": "Compra de fornecedor",
+        "user": "admin"
+    },
+    {
+        "id": 24,
+        "date": "2025-06-06T19:19:47.866292",
+        "type": "entrada",
+        "product_code": "PROD008",
+        "quantity": 6,
+        "reason": "Transferência interna",
+        "user": "admin"
+    },
+    {
+        "id": 25,
+        "date": "2025-06-06T19:19:47.867034",
+        "type": "entrada",
+        "product_code": "PROD007",
+        "quantity": 17,
+        "reason": "Transferência interna",
+        "user": "admin"
+    },
+    {
+        "id": 26,
+        "date": "2025-06-06T19:19:47.867743",
+        "type": "saída",
+        "product_code": "PROD005",
+        "quantity": 3,
+        "reason": "Amostra grátis",
+        "user": "admin"
+    },
+    {
+        "id": 27,
+        "date": "2025-06-06T19:19:47.868522",
+        "type": "entrada",
+        "product_code": "PROD007",
+        "quantity": 18,
+        "reason": "Transferência interna",
+        "user": "admin"
+    },
+    {
+        "id": 28,
+        "date": "2025-06-06T19:19:47.869520",
+        "type": "saída",
+        "product_code": "PROD008",
+        "quantity": 4,
+        "reason": "Transferência para filial",
+        "user": "admin"
+    },
+    {
+        "id": 29,
+        "date": "2025-06-06T19:19:47.870519",
+        "type": "saída",
+        "product_code": "PROD007",
+        "quantity": 4,
+        "reason": "Amostra grátis",
+        "user": "admin"
+    },
+    {
+        "id": 30,
+        "date": "2025-06-06T19:19:47.871447",
+        "type": "saída",
+        "product_code": "PROD010",
+        "quantity": 5,
+        "reason": "Amostra grátis",
+        "user": "admin"
+    },
+    {
+        "id": 31,
+        "date": "2025-06-06T19:19:47.872371",
+        "type": "saída",
+        "product_code": "PROD001",
+        "quantity": 5,
+        "reason": "Transferência para filial",
+        "user": "admin"
+    },
+    {
+        "id": 32,
+        "date": "2025-06-06T19:19:47.873525",
+        "type": "entrada",
+        "product_code": "PROD002",
+        "quantity": 19,
+        "reason": "Correção de inventário",
+        "user": "admin"
+    },
+    {
+        "id": 33,
+        "date": "2025-06-06T19:19:47.874363",
+        "type": "saída",
+        "product_code": "PROD010",
+        "quantity": 4,
+        "reason": "Transferência para filial",
+        "user": "admin"
+    },
+    {
+        "id": 34,
+        "date": "2025-06-06T19:19:47.875130",
+        "type": "saída",
+        "product_code": "PROD004",
+        "quantity": 2,
+        "reason": "Transferência para filial",
+        "user": "admin"
+    },
+    {
+        "id": 35,
+        "date": "2025-06-06T19:19:47.876097",
+        "type": "saída",
+        "product_code": "PROD002",
+        "quantity": 1,
+        "reason": "Venda ao cliente",
+        "user": "admin"
+    },
+    {
+        "id": 36,
+        "date": "2025-06-06T19:19:47.877011",
+        "type": "saída",
+        "product_code": "PROD005",
+        "quantity": 5,
+        "reason": "Produto danificado",
+        "user": "admin"
+    },
+    {
+        "id": 37,
+        "date": "2025-06-06T19:19:47.878075",
+        "type": "saída",
+        "product_code": "PROD003",
+        "quantity": 5,
+        "reason": "Venda ao cliente",
+        "user": "admin"
+    },
+    {
+        "id": 38,
+        "date": "2025-06-06T19:19:47.878988",
+        "type": "entrada",
+        "product_code": "PROD007",
+        "quantity": 7,
+        "reason": "Compra de fornecedor",
+        "user": "admin"
+    },
+    {
+        "id": 39,
+        "date": "2025-06-06T19:19:47.879819",
+        "type": "entrada",
+        "product_code": "PROD006",
+        "quantity": 17,
+        "reason": "Correção de inventário",
+        "user": "admin"
+    },
+    {
+        "id": 40,
+        "date": "2025-06-06T19:19:47.880634",
+        "type": "entrada",
+        "product_code": "PROD009",
+        "quantity": 19,
+        "reason": "Compra de fornecedor",
+        "user": "admin"
+    }
+]

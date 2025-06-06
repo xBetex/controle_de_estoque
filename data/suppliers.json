@@ -1,0 +1,47 @@
+[
+    {
+        "name": "TechCorp",
+        "contact": "João Silva",
+        "phone": "(11) 9999-1111",
+        "email": "joao@techcorp.com",
+        "id": 1,
+        "created_at": "2025-06-06T19:19:47.844591",
+        "updated_at": "2025-06-06T19:19:47.844594"
+    },
+    {
+        "name": "Fashion Store",
+        "contact": "Maria Santos",
+        "phone": "(11) 9999-2222",
+        "email": "maria@fashionstore.com",
+        "id": 2,
+        "created_at": "2025-06-06T19:19:47.844889",
+        "updated_at": "2025-06-06T19:19:47.844893"
+    },
+    {
+        "name": "Casa & Cia",
+        "contact": "Pedro Oliveira",
+        "phone": "(11) 9999-3333",
+        "email": "pedro@casaecia.com",
+        "id": 3,
+        "created_at": "2025-06-06T19:19:47.845181",
+        "updated_at": "2025-06-06T19:19:47.845185"
+    },
+    {
+        "name": "Livraria Central",
+        "contact": "Ana Costa",
+        "phone": "(11) 9999-4444",
+        "email": "ana@livrariacentral.com",
+        "id": 4,
+        "created_at": "2025-06-06T19:19:47.845491",
+        "updated_at": "2025-06-06T19:19:47.845494"
+    },
+    {
+        "name": "SportMax",
+        "contact": "Carlos Lima",
+        "phone": "(11) 9999-5555",
+        "email": "carlos@sportmax.com",
+        "id": 5,
+        "created_at": "2025-06-06T19:19:47.845776",
+        "updated_at": "2025-06-06T19:19:47.845784"
+    }
+]
