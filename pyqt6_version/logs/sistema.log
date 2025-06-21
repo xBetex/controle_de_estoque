@@ -1,0 +1,88 @@
+2025-06-20 18:23:15,873 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-20 18:23:16,457 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:23:16,457 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:23:16,572 - views.main_window - INFO - Janela principal inicializada
+2025-06-20 18:23:16,635 - root - INFO - Sistema iniciado com sucesso
+2025-06-20 18:23:23,742 - views.movimentacoes_window - ERROR - Erro ao carregar produtos: 'MovimentacoesWindow' object has no attribute 'combo_produto_filtro'
+2025-06-20 18:23:23,747 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:23:24,958 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:23:44,666 - views.movimentacoes_window - ERROR - Erro ao carregar produtos: 'MovimentacoesWindow' object has no attribute 'combo_produto_filtro'
+2025-06-20 18:23:44,669 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:23:46,096 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:24:08,104 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-20 18:25:58,509 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-20 18:25:58,607 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:25:58,607 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:25:58,652 - views.main_window - INFO - Janela principal inicializada
+2025-06-20 18:25:58,711 - root - INFO - Sistema iniciado com sucesso
+2025-06-20 18:25:59,816 - views.movimentacoes_window - ERROR - Erro ao carregar produtos: 'MovimentacoesWindow' object has no attribute 'combo_produto_filtro'
+2025-06-20 18:25:59,820 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:26:00,993 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: 'QDate' object has no attribute 'toPython'
+2025-06-20 18:30:37,466 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-20 18:30:44,535 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-20 18:30:44,629 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:30:44,630 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:30:44,674 - views.main_window - INFO - Janela principal inicializada
+2025-06-20 18:30:44,732 - root - INFO - Sistema iniciado com sucesso
+2025-06-20 18:31:34,779 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-20 18:34:18,502 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-20 18:34:18,603 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:34:18,603 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-20 18:34:18,650 - views.main_window - INFO - Janela principal inicializada
+2025-06-20 18:34:18,715 - root - INFO - Sistema iniciado com sucesso
+2025-06-20 18:34:41,957 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: type object 'GlobalColor' has no attribute 'lightGreen'
+2025-06-20 18:34:44,626 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: type object 'GlobalColor' has no attribute 'lightGreen'
+2025-06-21 11:07:48,529 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-21 11:07:48,689 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:07:48,689 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:07:49,389 - views.dashboard_window - ERROR - Erro ao carregar dados do dashboard: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:07:49,402 - views.main_window - INFO - Janela principal inicializada
+2025-06-21 11:07:49,468 - root - INFO - Sistema iniciado com sucesso
+2025-06-21 11:07:54,839 - views.dashboard_window - ERROR - Erro ao carregar dados do dashboard: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:08:10,576 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:08:12,038 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:08:13,517 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:08:41,281 - views.dashboard_window - ERROR - Erro ao carregar dados do dashboard: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:08:42,883 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:08:44,057 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:08:44,546 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:08:57,456 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-21 11:08:57,569 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:08:57,570 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:08:57,887 - views.dashboard_window - ERROR - Erro ao carregar dados do dashboard: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:08:57,895 - views.main_window - INFO - Janela principal inicializada
+2025-06-21 11:08:57,980 - root - INFO - Sistema iniciado com sucesso
+2025-06-21 11:09:00,298 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-21 11:09:41,275 - views.dashboard_window - ERROR - Erro ao carregar dados do dashboard: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:10:08,487 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: 'Movimentacao' object has no attribute 'get_movimentacoes_completas'
+2025-06-21 11:10:09,409 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:10:09,577 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:10:16,196 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:11:17,823 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-21 11:11:17,929 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:11:17,929 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:11:18,253 - views.main_window - INFO - Janela principal inicializada
+2025-06-21 11:11:18,311 - root - INFO - Sistema iniciado com sucesso
+2025-06-21 11:11:23,946 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-21 11:11:24,597 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-21 11:12:20,626 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-21 11:12:20,731 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:12:20,731 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:12:21,017 - views.main_window - INFO - Janela principal inicializada
+2025-06-21 11:12:21,076 - root - INFO - Sistema iniciado com sucesso
+2025-06-21 11:13:02,623 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: name 'QColor' is not defined
+2025-06-21 11:13:04,184 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:13:04,903 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:14:14,562 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:14:21,182 - views.movimentacoes_window - ERROR - Erro ao carregar histórico: name 'QColor' is not defined
+2025-06-21 11:14:22,313 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:14:22,790 - views.movimentacoes_window - ERROR - Erro ao filtrar histórico: name 'QColor' is not defined
+2025-06-21 11:15:59,408 - views.main_window - INFO - Sistema sendo encerrado
+2025-06-21 11:18:04,853 - root - INFO - Iniciando Sistema de Controle de Estoque
+2025-06-21 11:18:04,976 - utils.database - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:18:04,976 - root - INFO - Banco de dados inicializado com sucesso
+2025-06-21 11:18:06,219 - views.main_window - INFO - Janela principal inicializada
+2025-06-21 11:18:06,280 - root - INFO - Sistema iniciado com sucesso
+2025-06-21 11:18:20,427 - utils.export - INFO - Dados exportados para Excel: D:\python_projects\good_projects\python\Controle de Estoque\pyqt6_version\exports\relatorio_produtos_20250621_111820.xlsx
+2025-06-21 11:20:23,351 - utils.export - INFO - Dados exportados para Excel: D:\python_projects\good_projects\python\Controle de Estoque\pyqt6_version\exports\resumo_mensal_20250621_112023.xlsx
+2025-06-21 11:24:36,382 - views.main_window - INFO - Sistema sendo encerrado
